@@ -26,8 +26,8 @@ CREATE TABLE mentor(
 INSERT INTO mentor VALUES (NULL, '1', '4');
 INSERT INTO mentor VALUES (NULL, '2', '2');
 INSERT INTO mentor VALUES (NULL, '3', '4');
-INSERT INTO mentor VALUES (NULL, '6', '3');
-INSERT INTO mentor VALUES (NULL, '7', '2');
+INSERT INTO mentor VALUES (NULL, '5', '3');
+INSERT INTO mentor VALUES (NULL, '6', '2');
 
 
 CREATE TABLE courses(
@@ -52,8 +52,8 @@ CREATE TABLE enrolled_courses(
 
 INSERT INTO enrolled_courses VALUES(NULL,'1','2')
 INSERT INTO enrolled_courses VALUES(NULL,'2','5')
-INSERT INTO enrolled_courses VALUES(NULL,'1','3')
-INSERT INTO enrolled_courses VALUES(NULL,'1','1')
-INSERT INTO enrolled_courses VALUES(NULL,'1','2')
+INSERT INTO enrolled_courses VALUES(NULL,'3','3')
+INSERT INTO enrolled_courses VALUES(NULL,'4','1')
+INSERT INTO enrolled_courses VALUES(NULL,'5','2')
  
 
